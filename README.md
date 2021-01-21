@@ -1,28 +1,26 @@
-####Setting up and Running notebook###
+#  Setting up and Running notebook
 
-Introduction
+### Introduction
 
-This notebook contains Exploratory Data Analysis of Kick Starters Dataset taken
-from below location.
-https://credit-saison-india-assignments.s3.amazonaws.com/ks-projects-cleaned.csv
+This notebook contains Exploratory Data Analysis of Kick Starters Dataset.
 
-Setup Dependencies
+### Setup Dependencies
 
-Prerequisite: Python
+##### Prerequisite: Python
 
-Installation Steps:
+### Installation Steps:
 
-unzip credit-saison-assignment.zip
+* unzip credit-saison-assignment.zip
 
-Inside folder credit-saison-assignment run below commands
-py -m venv env
+* Inside folder credit-saison-assignment run below commands  
+* py -m venv env
 
-.\env\Scripts\activate
+* .\env\Scripts\activate
 
-cd combined
+* cd combined
 
-pip install -r requirements.txt
+* pip install -r requirements.txt
 
-jupyter notebook
+* jupyter notebook
 
-Once jupyter notebook server is started, Open notebook named 'Exploratory Data Analysis - Kickstarters Dataset.ipynb'
+##### Once jupyter notebook server is started, Open notebook named 'Exploratory Data Analysis - Kickstarters Dataset.ipynb'
